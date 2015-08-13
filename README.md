@@ -1,1 +1,1 @@
-**Stop using this fork. Use jest directly in your gulp tasks. If you want to use the `--name` option (to filter specific test files), you can use this [tip](https://gist.github.com/fdubost/856fcef37e8f1c49609e).**
+**Stop using this fork. Use [jest](https://github.com/facebook/jest) directly in your gulp tasks. If you want to use the `--name` option (to filter specific test files), you can use this [tip](https://gist.github.com/fdubost/856fcef37e8f1c49609e).**
